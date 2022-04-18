@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/drawable-v24/shape_rectangle_8_d9435e2.xml" value="0.1215" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.1645" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/drawable/ic_arrow_back_000.xml" value="0.1215" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/drawable/ic_arrow_right_8d92a3.xml" value="0.1215" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1215" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1215" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/drawable/shape_rectangle_8_8d92a3.xml" value="0.1215" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/drawable/shape_rectangle_8_d9435e.xml" value="0.1215" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/drawable/shape_rectangle_8_ffc700.xml" value="0.1645" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/drawable/shape_rectangle_8_fff.xml" value="0.1215" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/font/poppins.xml" value="0.225" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/font/poppins_bold.xml" value="0.225" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/activity_auth.xml" value="0.1" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/activity_detail.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/activity_detail_orders.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/dialog_loader.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_detail.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_home_new_taste.xml" value="0.2" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_home_popular.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_home_recommended.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_inprogress.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_orders.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_orders_detail.xml" value="0.18" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_pastorders.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_payment.xml" value="0.25" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_payment_success.xml" value="0.1" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_profile_account.xml" value="0.1" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_profile_foodmarket.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_signin.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_signup.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_signup_address.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/fragment_signup_success.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/item_home_horizontal.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/item_home_vertical.xml" value="0.33" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/item_inprogress.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/item_menu_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/item_pastorders.xml" value="0.1" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/layout/layout_toolbar.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dedi Rosandi/Documents/DadsBakery/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
